@@ -4,6 +4,5 @@ metadata:
   labels:
     app: argotest
   name: argotest
-  namespace: argocd
 data:
   test: me
